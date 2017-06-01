@@ -1,0 +1,12 @@
+[ 2017-03-15T10:40:38+08:00 ] 123.249.94.21 /index.php?s=/module/aciton/param1/$%7B@phpinfo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+ERR: 无法加载模块:Module
+
+[ 2017-03-15T10:40:38+08:00 ] 123.249.94.21 /index.php/module/aciton/param1/$%7B@phpinfo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+ERR: 无法加载模块:Module
+

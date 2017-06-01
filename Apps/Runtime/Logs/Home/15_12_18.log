@@ -1,0 +1,391 @@
+[ 2015-12-18T00:10:51+08:00 ] 121.42.210.61 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000077s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000101s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000106s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T01:04:51+08:00 ] 121.42.0.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T01:04:51+08:00 ] 121.42.0.59 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000104s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T01:04:53+08:00 ] 121.42.0.73 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000096s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000101s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000020s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T01:04:53+08:00 ] 121.42.0.60 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T02:23:09+08:00 ] 54.153.32.246 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000096s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T03:02:08+08:00 ] 121.42.0.35 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000020s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T03:03:32+08:00 ] 123.151.42.61 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000130s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000019s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T07:49:13+08:00 ] 23.251.63.45 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000096s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000107s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000019s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T08:07:35+08:00 ] 112.74.206.117 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000143s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T10:38:19+08:00 ] 119.110.66.14 /?author=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T10:54:18+08:00 ] 120.24.251.13 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000096s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000102s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T12:02:22+08:00 ] 113.87.121.97 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007937s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000890s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0398s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T15:02:26+08:00 ] 123.151.42.61 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T15:22:47+08:00 ] 123.56.233.113 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000100s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T17:20:49+08:00 ] 23.251.63.45 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000098s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000099s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2015-12-18T22:39:39+08:00 ] 171.208.221.246 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000097s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [2] file_put_contents(./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php): failed to open stream: Permission denied /data/www/web/ThinkPHP/Library/Think/Storage/Driver/File.class.php 第 47 行.
+ERR: _STORAGE_WRITE_ERROR_:./Apps/Runtime/Cache/Home/b4d6f8b7423df441a9a7eab332c4698a.php
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/www/web/ThinkPHP/Library/Think/View.class.php:95) /data/www/web/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+

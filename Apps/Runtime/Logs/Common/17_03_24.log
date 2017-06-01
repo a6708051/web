@@ -1,0 +1,24 @@
+[ 2017-03-24T11:16:48+08:00 ] 123.249.94.21 /index.php?s=/module/aciton/param1/$%7B@phpinfo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+ERR: 无法加载模块:Module
+
+[ 2017-03-24T11:16:48+08:00 ] 123.249.94.21 /index.php/module/aciton/param1/$%7B@phpinfo()%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006217s ]
+ERR: 无法加载模块:Module
+
+[ 2017-03-24T18:24:42+08:00 ] 192.187.117.10 /index.php/component/users/?view=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+ERR: 无法加载模块:Component
+
+[ 2017-03-24T18:24:45+08:00 ] 192.187.117.10 /index.php/component/users/?view=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+ERR: 无法加载模块:Component
+

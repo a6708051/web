@@ -1,0 +1,12 @@
+[ 2016-05-30T16:11:56+08:00 ] 120.26.55.211 /config/config_global.php~
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+ERR: 无法加载模块:EDIRECT_STATUS
+
+[ 2016-05-30T16:15:25+08:00 ] 120.26.55.211 /config/config_global.php~
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+ERR: 无法加载模块:EDIRECT_STATUS
+

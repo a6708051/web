@@ -1,0 +1,24 @@
+[ 2016-02-07T18:58:11+08:00 ] 183.60.243.187 /index.php?m=search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+ERR: 无法加载模块:Search
+
+[ 2016-02-07T18:58:11+08:00 ] 183.60.243.187 /index.php?m=wap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+ERR: 无法加载模块:Wap
+
+[ 2016-02-07T18:58:11+08:00 ] 183.60.243.187 /index.php?m=admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-02-07T18:58:11+08:00 ] 183.60.243.187 /index.php?m=admin&c=index&a=login&pc_hash=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+ERR: 无法加载模块:Admin
+

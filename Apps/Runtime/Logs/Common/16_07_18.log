@@ -1,0 +1,6 @@
+[ 2016-07-18T12:00:39+08:00 ] 120.26.55.211 /index.php/module/action/param1/%7B$%7Bphpinfo()%7D%7D_
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+ERR: 无法加载模块:Module
+

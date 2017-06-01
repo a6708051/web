@@ -1,0 +1,6 @@
+[ 2016-06-01T10:00:23+08:00 ] 120.26.55.211 /config/.config_global.php.swp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000216s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001400s ]
+ERR: 无法加载模块:IRECT_STATUS
+

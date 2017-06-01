@@ -1,0 +1,42 @@
+[ 2016-08-16T12:12:12+08:00 ] 42.120.13.227 /config/config_global.php.bak
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:RECT_STATUS
+
+[ 2016-08-16T12:12:13+08:00 ] 42.120.13.227 /data/config.inc.php.bak
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+ERR: 无法加载模块:STATUS
+
+[ 2016-08-16T12:12:14+08:00 ] 42.120.13.227 /config/config_ucenter.php.bak
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 无法加载模块:IRECT_STATUS
+
+[ 2016-08-16T12:12:14+08:00 ] 42.120.13.227 /config.inc.php.bak
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001217s ]
+ERR: 无法加载模块:S
+
+[ 2016-08-16T13:54:15+08:00 ] 42.120.13.227 /config/config_global.php.bak
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:RECT_STATUS
+
+[ 2016-08-16T13:54:17+08:00 ] 42.120.13.227 /data/config.inc.php.bak
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+ERR: 无法加载模块:STATUS
+
+[ 2016-08-16T13:54:19+08:00 ] 42.120.13.227 /config.inc.php.bak
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000217s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+ERR: 无法加载模块:S
+
