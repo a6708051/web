@@ -35,7 +35,6 @@ class LoginController extends CommonController {
 				session('user.user_id', intval($data['id']));
 				session('user.account', $data['account_number']);
 				session('user.nickname', $data['nickname']);
-				
 				$this->_ajax_return(1, 'success', array('url'=>'/Manage/article'));
 			} else {
 				$this->_ajax_return(-1, 'login error');

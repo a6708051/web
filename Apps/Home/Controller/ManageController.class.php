@@ -7,7 +7,7 @@ class ManageController extends CommonController {
 		parent::__construct();
 		$login_user_id = session('user.user_id');
 		if (empty($login_user_id)) {
-			$this->redirect_root('/Login');
+			$this->redirect_root('/Login/');
 		}
 		$this->_login_user_id = $login_user_id;
 	}
@@ -22,7 +22,7 @@ class ManageController extends CommonController {
 		}
 		$article = M('article');
 		$count = $article->table("blog_article")->where($where)->count();
-		$Page = new \Think\Page($count, 20);
+		$Page = new \Think\Page($count, 40);
 		$show = $Page->show();
 		$limit = 'limit '.($Page->firstRow.',').$Page->listRows;
 		$sql = "select * from blog_article where $where {$limit}";
