@@ -54,6 +54,7 @@
 .b-left {
 	width: 70%;
 	float: left;
+	margin-bottom: 20px;
 }
 
 .art-list {
